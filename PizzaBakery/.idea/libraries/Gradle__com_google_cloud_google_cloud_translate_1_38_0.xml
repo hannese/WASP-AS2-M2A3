@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-translate:1.38.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-translate/1.38.0/2609ecff3077b7ee0ce034c2bce3e77e6666eabd/google-cloud-translate-1.38.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-translate/1.38.0/6d87bcc5818bdf937a3a6d2c699136f7a4a98382/google-cloud-translate-1.38.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

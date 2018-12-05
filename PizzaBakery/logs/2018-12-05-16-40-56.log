@@ -1,0 +1,4 @@
+16:40:56 [Skill] INFO  Skill:135 - Connecting to broker 10.0.47.193:1932...
+16:41:18 [pool-2-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.Yes:en in 27 msec
+16:41:28 [pool-2-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.pizzabakery.flow.Food:en in 2 msec
+16:41:28 [pool-2-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.pizzabakery.flow.BuyFood:en in 0 msec
