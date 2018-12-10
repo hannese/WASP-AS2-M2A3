@@ -77,6 +77,6 @@ val Order : State = state(Start) {
 fun OrderReceived(food : Food) : State = state(Interaction) {
     onEntry {
         furhat.say("${food.text}, good stuff!")
-        goto(Order)
+        goto(Cost(food))
     }
-}c
+}
